@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navy_dark">#0B132B</color>
+    <color name="navy_primary">#1C2541</color>
+    <color name="navy_card">#253256</color>
+    <color name="navy_light">#3A506B</color>
+    <color name="orange_primary">#FF6B00</color>
+    <color name="orange_light">#FF9E44</color>
+    <color name="orange_glow">#33FF6B00</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_muted">#CBD5E1</color>
+    <color name="success_green">#10B981</color>
+    <color name="danger_red">#EF4444</color>
+</resources>
